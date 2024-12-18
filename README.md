@@ -1,6 +1,4 @@
 
-
-```markdown
 # Cartão de Visita - HTML, CSS e JavaScript
 
 Este projeto é um exemplo de um cartão de visita interativo e estilizado, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo foi criar uma página web que simule um cartão de visita com funcionalidades interativas.
@@ -20,7 +18,7 @@ Este projeto é um exemplo de um cartão de visita interativo e estilizado, dese
 
 ## 📸 Captura de Tela
 
-![Imagem do Cartão de Visita](https://drive.google.com/file/d/12qyG-YRCbEZLwd2fwShlBVC2GIK5lm5B/view?usp=sharing)
+![Imagem do Cartão de Visita](https://github.com/IkkyLuiz/Cartao_de_Natal/blob/main/img/Slide1.PNG)
 ![Imagem do Cartão de Visita](https://drive.google.com/file/d/1Dp1JMv29vN0NHOSa-z3QkHj1jQD1TXFu/view?usp=sharing)
 
 
@@ -62,5 +60,5 @@ Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto,
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
-```
+
 
