@@ -11,7 +11,6 @@ Este projeto é um exemplo de um cartão de visita interativo e estilizado, dese
 
 ## 🔧 Funcionalidades
 
-- Exibição de informações do cartão de visita (nome, cargo, telefone, email, etc.).
 - Estilo visual moderno e responsivo.
 - Efeitos interativos utilizando JavaScript (por exemplo, animações ao passar o mouse).
 - Design simples e elegante que pode ser facilmente customizado para diferentes necessidades.
