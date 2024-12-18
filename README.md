@@ -43,7 +43,7 @@ Sinta-se à vontade para personalizar o cartão de visita, alterando os detalhes
 
 ### Exemplo de Personalização:
 
-- Alterar o nome e o cargo no HTML.
+- Alterar o nome e a mensagem de Natal no arquivo HTML.
 - Modificar as cores e fontes no CSS.
 - Adicionar mais interações ou animações com JavaScript.
 
