@@ -20,8 +20,9 @@ Este projeto é um exemplo de um cartão de visita interativo e estilizado, dese
 
 ## 📸 Captura de Tela
 
-![Imagem do Cartão de Visita](https://github.com/IkkyLuiz/Cart-o_de_Natal/blob/main/img/Slide1.PNG)
-![Imagem do Cartão de Visita](https://github.com/IkkyLuiz/Cart-o_de_Natal/blob/main/img/Slide2.PNG)
+![Imagem do Cartão de Visita](https://raw.githubusercontent.com/IkkyLuiz/Cart-o_de_Natal/main/img/Slide1.PNG)
+![Imagem do Cartão de Visita](https://raw.githubusercontent.com/IkkyLuiz/Cart-o_de_Natal/main/img/Slide2.PNG)
+
 
 ## 🛠️ Como Usar
 
