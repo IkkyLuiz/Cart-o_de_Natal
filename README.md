@@ -60,4 +60,5 @@ Contribuições são bem-vindas! Se você deseja ajudar a melhorar este projeto,
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
-
+## Referência
+O Projeto foi inspirado neste [Repositório](https://github.com/Ninja1375/cartao-de-natal/tree/main)
